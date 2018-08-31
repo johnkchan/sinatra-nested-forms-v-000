@@ -20,7 +20,11 @@ module FormsLab
       end
       @ships = Ship.all
       
+<<<<<<< HEAD
       erb :'pirates/show'
+=======
+      erb :'pirates/new'
+>>>>>>> 702fbcb8c12335008a00deca1b3c984672d0a85c
     end
     
   end
